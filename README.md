@@ -1,6 +1,5 @@
-# kkeisuke.com
+## kkeisuke
 
-- [GitHub](https://github.com/kkeisuke)
 - [Qiita](http://qiita.com/kkeisuke)
 - [はてなブックマーク](http://b.hatena.ne.jp/kkeisuke)
 - [twitter](https://twitter.com/kkeisuke)
