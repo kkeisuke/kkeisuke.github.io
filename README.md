@@ -1,6 +1,6 @@
 ## Profile
 
-kkeisuke ( keisuke kimura )
+keisuke kimura
 
 Web Engineer / Front End Engineer
 
