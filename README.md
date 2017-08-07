@@ -1,5 +1,7 @@
 ## Profile
 
+kkeisuke ( keisuke kimura )
+
 Web Engineer / Front End Engineer
 
 ## Contact
@@ -17,3 +19,5 @@ Web Engineer / Front End Engineer
 ## Portfolio
 
 - [PlantUML Editor](http://plantuml-editor.kkeisuke.com/)
+  - [GitHub](https://github.com/kkeisuke/plantuml-editor)
+  - [hatenablog](http://kkeisuke.hatenablog.com/entry/2017/08/07/160845)
