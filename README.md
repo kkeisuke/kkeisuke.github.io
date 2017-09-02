@@ -21,6 +21,25 @@ keisuke kimura
 
 ## Portfolio
 
-- [PlantUML Editor](https://plantuml-editor.kkeisuke.com/)
-  - [GitHub](https://github.com/kkeisuke/plantuml-editor)
-  - [hatenablog](http://kkeisuke.hatenablog.com/entry/2017/08/07/160845)
+### PlantUML Editor
+
+> A Vue.js project
+
+PlantUML online demo client
+
+https://plantuml-editor.kkeisuke.com/
+
+- [GitHub](https://github.com/kkeisuke/plantuml-editor)
+- [hatenablog](http://kkeisuke.hatenablog.com/entry/2017/08/07/160845)
+
+![PlantUML online demo client](https://plantuml-editor.kkeisuke.com/static/capture1_20170809.png)
+
+### 売買革命
+
+不動産売買仲介営業支援システム
+
+https://www.baibaikakumei.jp/
+
+- Web Engineer / Front End Engineer
+- Project Leader
+- Project Manager
