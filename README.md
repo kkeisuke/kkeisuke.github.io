@@ -27,7 +27,7 @@ keisuke kimura
 
 PlantUML online demo client
 
-[https://plantuml-editor.kkeisuke.com/](PlantUML Editor)
+[https://plantuml-editor.kkeisuke.com/](https://plantuml-editor.kkeisuke.com/)
 
 - [GitHub](https://github.com/kkeisuke/plantuml-editor)
 - [hatenablog](http://kkeisuke.hatenablog.com/entry/2017/08/07/160845)
@@ -38,7 +38,7 @@ PlantUML online demo client
 
 不動産売買仲介営業支援システム
 
-https://www.baibaikakumei.jp/
+[https://www.baibaikakumei.jp/](https://www.baibaikakumei.jp/)
 
 - Web Engineer / Front End Engineer
 - Project Leader
