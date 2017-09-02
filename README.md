@@ -27,7 +27,7 @@ keisuke kimura
 
 PlantUML online demo client
 
-https://plantuml-editor.kkeisuke.com/
+[https://plantuml-editor.kkeisuke.com/](PlantUML Editor)
 
 - [GitHub](https://github.com/kkeisuke/plantuml-editor)
 - [hatenablog](http://kkeisuke.hatenablog.com/entry/2017/08/07/160845)
