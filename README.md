@@ -6,6 +6,16 @@ keisuke kimura
 - Freelance
 - Miyazaki / Kumamoto
 
+## Skill
+
+- TypeScript
+- Vue
+- React
+- Angular
+- PHP
+
+etc...
+
 ## Contact
 
 - [Google Forms](https://goo.gl/forms/xoKOlTbN2Mqf5eh22)
@@ -23,7 +33,7 @@ keisuke kimura
 
 ### PlantUML Editor
 
-> A Vue.js project
+> A Vue.js, Vuex project
 
 PlantUML online demo client
 
