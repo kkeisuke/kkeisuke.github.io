@@ -1,25 +1,34 @@
 ## Profile
 
-keisuke kimura
+![kkeisuke](Lento.png) ![kkeisuke](qrcode.png)
+
+kkeisuke ( 木村慶介 / keisuke kimura )
 
 - Web Engineer / Front End Engineer
 - Freelance
 - Miyazaki / Kumamoto
 
-## Skill
-
-- TypeScript
-- Vue
-- React
-- Angular
-- PHP
-
-etc...
-
 ## Contact
+
+業務システム開発・システムコンサルティング・チームマネジメントに関するお問い合わせはこちら
 
 - [Google Forms](https://goo.gl/forms/xoKOlTbN2Mqf5eh22)
 - &#x6d;&#x61;&#x69;&#x6c;&#x40;&#x6b;&#x6b;&#x65;&#x69;&#x73;&#x75;&#x6b;&#x65;&#x2e;&#x63;&#x6f;&#x6d;
+
+## Skill
+
+- TypeScript / JavaScript
+- Vue
+- React
+- Angular
+- Node.js
+- PHP
+- PlantUML
+- [Project Management](http://kkeisuke.hatenablog.com/entry/2017/02/19/022528)
+- UI / UX
+- Git / Delivery Management
+
+jQuery, Bootstrap, Sass, MySQL and more...
 
 ## SNS
 
@@ -28,6 +37,19 @@ etc...
 - [twitter](https://twitter.com/kkeisuke)
 - [hatenablog](http://kkeisuke.hatenablog.com)
 - [wantedly](https://www.wantedly.com/users/26957334)
+- [CodePen](https://codepen.io/_kkeisuke/)
+
+## Work
+
+### 売買革命 (2013 〜 2018)
+
+不動産売買仲介営業支援システム
+
+[https://www.baibaikakumei.jp/](https://www.baibaikakumei.jp/)
+
+- Web Engineer / Front End Engineer
+- Project Leader
+- Project Manager
 
 ## Portfolio
 
@@ -55,13 +77,3 @@ utility tools by kkeisuke.com
 - [GitHub](https://github.com/kkeisuke/utility)
 
 ![utility tools by kkeisuke.com](https://raw.githubusercontent.com/kkeisuke/utility/master/screenshot/sqlformat.png)
-
-### 売買革命
-
-不動産売買仲介営業支援システム
-
-[https://www.baibaikakumei.jp/](https://www.baibaikakumei.jp/)
-
-- Web Engineer / Front End Engineer
-- Project Leader
-- Project Manager
