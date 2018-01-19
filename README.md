@@ -10,7 +10,7 @@ kkeisuke ( 木村慶介 / keisuke kimura )
 
 ## Contact
 
-業務システム開発・システムコンサルティング・チームマネジメントに関するお問い合わせはこちら
+業務システム開発・システムコンサルティング・チームマネジメントなど、お気軽にご相談ください。
 
 - [Google Forms](https://goo.gl/forms/xoKOlTbN2Mqf5eh22)
 - &#x6d;&#x61;&#x69;&#x6c;&#x40;&#x6b;&#x6b;&#x65;&#x69;&#x73;&#x75;&#x6b;&#x65;&#x2e;&#x63;&#x6f;&#x6d;
