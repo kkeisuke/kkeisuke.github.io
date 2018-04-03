@@ -4,7 +4,8 @@
 
 kkeisuke ( 木村慶介 / keisuke kimura )
 
-- Web エンジニア / フロントエンドエンジニア
+- Web エンジニア
+  - フロントエンドエンジニア
 - フリーランス
 - 熊本, 宮崎
 
@@ -47,7 +48,8 @@ jQuery, Bootstrap, Sass, MySQL and more...
 
 [https://www.baibaikakumei.jp/](https://www.baibaikakumei.jp/)
 
-- Web エンジニア / フロントエンドエンジニア
+- Web エンジニア
+  - フロントエンドエンジニア
 - プロジェクトマネージャー
 
 ## ポートフォリオ
