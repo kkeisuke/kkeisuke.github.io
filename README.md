@@ -1,21 +1,21 @@
-## Profile
+## プロフィール
 
 ![kkeisuke](Lento.png) ![kkeisuke](qrcode.png)
 
 kkeisuke ( 木村慶介 / keisuke kimura )
 
-- Web Engineer / Front End Engineer
-- Freelance
-- Miyazaki / Kumamoto
+- Web エンジニア / フロントエンドエンジニア
+- フリーランス
+- 熊本, 宮崎
 
-## Contact
+## 連絡先
 
 業務システム開発・システムコンサルティング・チームマネジメントなど、お気軽にご相談ください。
 
 - [Google Forms](https://goo.gl/forms/xoKOlTbN2Mqf5eh22)
 - &#x6d;&#x61;&#x69;&#x6c;&#x40;&#x6b;&#x6b;&#x65;&#x69;&#x73;&#x75;&#x6b;&#x65;&#x2e;&#x63;&#x6f;&#x6d;
 
-## Skill
+## スキル
 
 - TypeScript / JavaScript
 - Vue
@@ -24,9 +24,9 @@ kkeisuke ( 木村慶介 / keisuke kimura )
 - Node.js
 - PHP
 - PlantUML
-- [Project Management](http://kkeisuke.hatenablog.com/entry/2017/02/19/022528)
+- [プロジェクトマネジメント](http://kkeisuke.hatenablog.com/entry/2017/02/19/022528)
 - UI / UX
-- Git / Delivery Management
+- Git
 
 jQuery, Bootstrap, Sass, MySQL and more...
 
@@ -39,7 +39,7 @@ jQuery, Bootstrap, Sass, MySQL and more...
 - [wantedly](https://www.wantedly.com/users/26957334)
 - [CodePen](https://codepen.io/_kkeisuke/)
 
-## Work
+## 実績
 
 ### 売買革命 (2013 〜 2018)
 
@@ -47,17 +47,16 @@ jQuery, Bootstrap, Sass, MySQL and more...
 
 [https://www.baibaikakumei.jp/](https://www.baibaikakumei.jp/)
 
-- Web Engineer / Front End Engineer
-- Project Leader
-- Project Manager
+- Web エンジニア / フロントエンドエンジニア
+- プロジェクトマネージャー
 
-## Portfolio
+## ポートフォリオ
 
 ### PlantUML Editor
 
-> A Vue.js, Vuex project
-
 PlantUML online demo client
+
+Vue.js, Vuex project
 
 [https://plantuml-editor.kkeisuke.com/](https://plantuml-editor.kkeisuke.com/)
 
@@ -68,9 +67,9 @@ PlantUML online demo client
 
 ### Utility
 
-> React, MobX
-
 utility tools by kkeisuke.com
+
+React, MobX project
 
 [https://utility.kkeisuke.com/](https://utility.kkeisuke.com/)
 
